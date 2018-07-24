@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@mdx-js/mdx": "0.15.0-0",
+    "@mdx-js/tag": "0.14.1",
+    "microbundle": "0.6.0",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "rebass": "2.1.0",
+    "styled-components": "3.3.3"
+  },
+  "devDependencies": {
+    "webpack-hot-client": "4.1.1"
+  },
+  "scripts": {
+    "build": "microbundle"
+  }
+}
